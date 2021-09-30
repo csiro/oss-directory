@@ -17,7 +17,7 @@ Historically many organisations on GitHub were set up by parts of the CSIRO. Thi
 * [CSIRO Coastal Group](https://github.com/csiro-coasts)
 * [The Australian e-Health Research Centre](https://github.com/aehrc)
 * [Crop Informatics](https://github.com/csiro-crop-informatics)
-
+* [Coastal Informatics](https://github.com/onaci)
 * [APSIM Initiative](https://github.com/APSIMInitiative)
 
 <!-- 
