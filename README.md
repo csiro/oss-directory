@@ -11,6 +11,7 @@ Historically many organisations on GitHub were set up by parts of the CSIRO. Thi
 * [CSIRO's Imaging and Computer Vision Group](https://github.com/csiro-icvg)
 * [CSIRO Wireless Sensor Networks](https://github.com/csiro-wsn)
 * [CSIRO Workspace - Scientific workflow and application development platform](https://github.com/csiro-workspace)
+* [CSIRO CMR Discovery - Geoscience Analytics](https://github.com/CSIRO-GeoscienceAnalytics)
 * [Earth Analytics Science and Innovation](https://github.com/csiro-easi)
 * [CSIRO Environmental informatics](https://github.com/CSIRO-enviro-informatics)
 * [Hydroinformatics](https://github.com/csiro-hydroinformatics)
