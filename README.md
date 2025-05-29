@@ -28,7 +28,7 @@ Historically many organisations on GitHub were set up by parts of the CSIRO. Thi
 * [CSIRO Coastal Group](https://github.com/csiro-coasts)
 * [Coastal Informatics](https://github.com/onaci)
 
-### Health a&nd Biosecurity
+### Health & Biosecurity
 * [The Australian e-Health Research Centre](https://github.com/aehrc)
 
 ### Mineral Resources
